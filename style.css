@@ -1,0 +1,31 @@
+.yellow-text{
+    color: yellow;
+    font-size: 20px;
+}
+.white-text{
+    color: white;
+}
+#europa-text{
+    color: orange;
+    font-size: 20px;
+}
+li{
+    color: white;
+}
+h4{
+    color: white;
+    font-size: 25px;
+}
+h1{
+    font-size: 50px;
+    background-color: grey;
+    border: 2px solid yellow;
+}
+body{
+    background-image: url('https://t.ctcdn.com.br/m6VpeGYFUgPwlI74Qy9Jk6wRwgQ=/1024x0/smart/i338868.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+*{
+    border: 2px solid;
+}
